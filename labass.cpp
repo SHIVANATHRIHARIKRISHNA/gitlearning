@@ -13,6 +13,7 @@ for(int i=0;i<arr.size();i++)
  return i;
 }
 }
+cout<<"hi"<<endl;
 }
 
 
